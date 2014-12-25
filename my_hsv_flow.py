@@ -4,6 +4,8 @@ import numpy as np
 import cv2
 import video
 
+##It breaks opt_flow.py into 3 sections, this one is the hsv one
+
 help_message = '''
 USAGE: my_hsv_flow.py [<video_source>]
 '''
