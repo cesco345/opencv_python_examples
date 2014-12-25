@@ -4,6 +4,9 @@ import numpy as np
 import cv2
 import video
 
+## this is part of the opt_flow.py in 3 sections, this is the warp_flow part
+
+
 help_message = '''
 USAGE: my_warp_flow.py [<video_source>]
 
