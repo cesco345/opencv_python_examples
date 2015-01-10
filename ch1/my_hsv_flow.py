@@ -4,7 +4,8 @@ import numpy as np
 import cv2
 import video
 
-##It breaks opt_flow.py into 3 sections, this one is the hsv one
+##It breaks opt_flow.py into 3 sections, this one is the hsv one 
+## that allows us to visualize the hsv colorspace
 
 help_message = '''
 USAGE: my_hsv_flow.py [<video_source>]
