@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import PIL
 import PIL.Image
 import numpy
