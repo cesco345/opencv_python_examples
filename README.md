@@ -1,18 +1,5 @@
-opencv_python_examples
-======================
+Learn Computer Vision and OpenCV Through Examples
+=================================================
 
-OpenCV Python Examples
+This a sequence of chapters in book form that I have been working on.  Each chapter contains an IPython notebook with code for easy re-use, and markdown for easy reading.  Each chapter is self-contained and all sample code is included in that chapter.
 
-This is a list of examples using the OpenCV Python bindings
-
-I added the png photos to the project
-
-Created ch1 dir
-
-Created ch2 dir
-
-Created ch3 dir
-
-Created ch4 dir
-
-Created ch5 dir
